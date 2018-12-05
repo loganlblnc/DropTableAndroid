@@ -1,0 +1,9 @@
+<root>
+    <item name='org.robolectric.Robolectric'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+    <item name='org.robolectric.Robolectric T setupActivity(java.lang.Class&lt;T&gt;)'>
+        <annotation name='java.lang.Deprecated' />
+        <annotation name='android.support.annotation.Nullable' />
+    </item>
+</root>
